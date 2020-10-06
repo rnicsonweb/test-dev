@@ -1,4 +1,4 @@
-# test-dev
+# Teste Full Stack
 Comandos para instalação
 
 git clone https://github.com/rnicsonweb/test-dev.git #Clonando repositório
